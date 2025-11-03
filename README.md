@@ -42,8 +42,7 @@ Add this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-	v_scroller:
-		path: ../v_scroller # or published version on pub.dev
+	v_scroller: ^0.0.1
 ```
 
 Then run:
