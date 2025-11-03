@@ -1,0 +1,19 @@
+name: v_scroller
+description: "A lightweight, velocity-aware value picker for Flutter with customizable styling and tunable fling physics."
+version: 0.0.1
+homepage: https://github.com/Fima2003/v_scroller
+
+environment:
+  sdk: ^3.9.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  infinite_listview: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
